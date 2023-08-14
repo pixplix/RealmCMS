@@ -1,0 +1,27 @@
+{
+  "name": "realmcms",
+  "version": "1.0.0",
+  "description": "World of Warcraft Private Server Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixplix/RealmCMS.git"
+  },
+  "keywords": [
+    "RealmCMS",
+    "WoW",
+    "Warcraft",
+    "World",
+    "of",
+    "Wacraft"
+  ],
+  "author": "PixPlix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixplix/RealmCMS/issues"
+  },
+  "homepage": "https://github.com/pixplix/RealmCMS#readme"
+}
